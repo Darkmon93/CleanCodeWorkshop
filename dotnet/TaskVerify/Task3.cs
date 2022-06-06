@@ -42,7 +42,7 @@ namespace TaskVerify
         public void Serialize_PlayersToJson()
         {
             var assembly = typeof(GameEngine).Assembly;
-            var jsonDataSerializerType = assembly.GetType("CleanCodeWorkshop.Task_3.JsonDataSerializer");
+            var jsonDataSerializerType = assembly.GetType("CleanCodeWorkshop.Task_3.DataSerializer.JsonDataSerializer");
             Assert.IsNotNull(jsonDataSerializerType);
 
             var testedSerializer = Activator.CreateInstance(jsonDataSerializerType);
