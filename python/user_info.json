@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Kuba",
+    "surname": "Moran",
+    "age": 32,
+    "id_card": "RT-13130808",
+    "address": {
+      "street": "Kotlinska",
+      "house_no": "23",
+      "apartment_no": "",
+      "postal_code": "23-666",
+      "city": "Radom",
+      "country": "Poland"
+    },
+    "order": {
+      "apartment_type": "Pro+",
+      "nights_count": 2,
+      "start_date": "2022-06-12"
+    }
+  },
+  {
+    "name": "Harold",
+    "surname": "Debski",
+    "age": 35,
+    "id_card": "RT-10293847",
+    "address": {
+      "street": "Liderska",
+      "house_no": "2b",
+      "apartment_no": "23",
+      "postal_code": "13-370",
+      "city": "Bydgoszcz",
+      "country": "Poland"
+    },
+    "order": {
+      "apartment_type": "President",
+      "nights_count": 2,
+      "start_date": "2022-06-12"
+    }
+  },
+  {
+    "name": "Anna",
+    "surname": "Bobkowska",
+    "age": 35,
+    "id_card": "PG-27634985",
+    "address": {
+      "street": "Programistow",
+      "house_no": "10",
+      "apartment_no": "",
+      "postal_code": "56-789",
+      "city": "Sosnowiec",
+      "country": "Poland"
+    },
+    "order": {
+      "apartment_type": "Standard+",
+      "nights_count": 2,
+      "start_date": "2022-06-12"
+    }
+  }
+]
